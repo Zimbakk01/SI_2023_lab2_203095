@@ -96,7 +96,7 @@ password = "password"
 passwordLower = "password"
 Излез: true
 
-# Тест случаи според критериумот Every Branch
+# Тест случаи според критериумот Multiple Condition
 
 Тест случај 1:
 Влез: user = null
@@ -145,3 +145,8 @@ user.getEmail() = null
 user.getPassword() = "password"
 user.getEmail() = "email"
 Излез: Функцијата ќе продолжи со извршување
+
+# Објаснување на напишаните unit tests
+Објаснето во јава класата
+
+
