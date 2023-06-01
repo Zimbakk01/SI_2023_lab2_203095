@@ -3,8 +3,8 @@
 # Кирил Зимбаковски, бр. на индекс 203095
 
 # Control Flow Graph
+![dijagram](https://github.com/Zimbakk01/SI_2023_lab2_203095/assets/116515674/bb67f1fb-a438-446b-89a9-a74ba6eecb05)
 
-![SI_Labs2](https://github.com/Zimbakk01/SI_2023_lab2_203095/assets/116515674/f182a7b0-4073-455f-b5d3-36cf95cfe4f4)
 
 # Цикломатска комплексност
 
